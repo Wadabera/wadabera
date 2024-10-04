@@ -8,10 +8,9 @@ I have been studying coding for one year and am currently focused on front-end d
 
 * 🌍  I'm based in Jimma city
 * ✉️  You can contact me at [waadaaabarraa@gmail.com](mailto:waadaaabarraa@gmail.com )
-* 🚀  I'm currently working on [Recipe app](http://recipe app.com)
 * 🧠  I'm learning html,css and Javascript
 * 🤝  I'm open to collaborating on intresting project
-* ⚡  i am secretary coftman but i do not tell anyone
+* ⚡  i am  secretary a religious man
 
 ### Skills
 
